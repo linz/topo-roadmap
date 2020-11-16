@@ -15,7 +15,7 @@ For further detail on the specific labels used to categorise the datasets and da
 
 ### Quarterly timeframes
 
-The roadmap is arranged into periods of three months - these include the previous quarter, the current quarter and two future quarters. Datasets that aren't expected to be published until beyond this timeframe will be show in a 'Future' column.
+The roadmap is arranged into periods of three months - these include the previous quarter, the current quarter and two future quarters. Datasets that aren't expected to be published until beyond this timeframe will be shown in a 'Future' column.
 
 ### Datasets
 
@@ -34,16 +34,21 @@ The roadmap is arranged into periods of three months - these include the previou
 
 ### Publishing channels
 
+Each issue contains direct links to the dataset or dataset update in each of the relevant publishing channels, as soon as it has been published.
+
 - **linz data service**: The [LINZ Data Service](https://data.linz.govt.nz/) - LINZ's open data publishing platform
 - **basemaps**: [LINZ Basemaps](https://basemaps.linz.govt.nz) - authoritative aerial imagery basemap
 - **map chooser**: [LINZ Map Chooser](https://www.linz.govt.nz/land/maps/linz-topographic-maps/map-chooser) - tool for downloading individual Topo50 map series image files
-- **basedata.nz**: [Base Data NZ](https://basedata.nz) - datasets mirrored from the LINZ Data Service for use in ArcGIS Online and as ArcGIS REST services
 - **open topography**: [Open Topography](https://portal.opentopography.org/dataCatalog?loc=New%20Zealand) - access to point cloud downloads for LINZ elevation datasets
 
 ### Publishing phase
 
+- **data capture underway**: Data capture is underway by a supplier
+- **awaiting data**: Waiting to receive data from a supplier. This may occur after QC has been completed if corrections need to be made
+- **data received**: The dataset or dataset update has been received from the supplier and is awaiting QC
+- **qc in progress**: The dataset or dataset update is going through LINZ's QC processes
+- **in progress**: The dataset creation or dataset update is underway internally at LINZ
 - **published**: The dataset or dataset update is publicly available
-- **delayed**: The dataset or dataset update has been delayed - check the issue for further information
 
 ## Disclaimer
 

@@ -1,6 +1,7 @@
 ---
 name: LiDAR Roadmap Item
 about: Create a roadmap item for a new LiDAR dataset or dataset update
+title: $LOCATION LiDAR ($YEAR1-$YEAR2)
 labels: lidar, linz data service, open topography
 ---
 

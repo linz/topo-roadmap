@@ -25,7 +25,8 @@ _The details below will be updated as this dataset is published._
 
 ### LINZ Basemaps
 
-- [Aerial Imagery Basemap](https://basedatanz.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=a4ac021a9f6d4976bfb3cc6d34739b8b)
+- $TITLE
+- [Aerial Imagery Basemap](https://basemaps.linz.govt.nz)
 
 ### Base Data NZ
 

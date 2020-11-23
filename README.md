@@ -43,7 +43,6 @@ Each issue contains direct links to the dataset or dataset update in each of the
 
 ### Publishing phase
 
-- **data capture underway**: Data capture is underway by a supplier
 - **awaiting data**: Waiting to receive data from a supplier. This may occur after QC has been completed if corrections need to be made
 - **data received**: The dataset or dataset update has been received from the supplier and is awaiting QC
 - **qc in progress**: The dataset or dataset update is going through LINZ's QC processes
